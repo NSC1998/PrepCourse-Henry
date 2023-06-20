@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del módulo 2 de herny
+Fidias Diaz
+prueba para como crear un repositorio y clonarlo desde github a mi computadora
+
